@@ -71,7 +71,7 @@ if(isset($_POST['signupbtn'])){
 
     <style>
       body {
-        background-image: url("C://Users//User//Desktop//bac1.png");
+        background-image: url("background.png");
         background-repeat: no-repeat;
         background-size: 1400px 700px ;
         font-family: "Lato", sans-serif;
