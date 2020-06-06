@@ -55,7 +55,7 @@ if(isset($_POST['signupbtn'])){
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="stylesheets/stylesheet1.css">
+    <link rel="stylesheet" href="stylesheet1.css">
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <!-- jQuery library -->
@@ -71,7 +71,7 @@ if(isset($_POST['signupbtn'])){
 
     <style>
       body {
-        background-image: url("C://Users//User//Desktop//bac1.png");
+        background-image: url("background.png");
         background-repeat: no-repeat;
         background-size: 1400px 700px ;
         font-family: "Lato", sans-serif;
